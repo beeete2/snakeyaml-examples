@@ -1,0 +1,13 @@
+name: server1
+hosts:
+- hostid: '1'
+  name: host1
+  items:
+  - itemid: '1'
+    key: item1
+    startDate: 2017-05-01
+    endDate: 2017-05-31
+  - itemid: '2'
+    key: item2
+    startDate: 2017-05-01
+    endDate: 2017-05-31
